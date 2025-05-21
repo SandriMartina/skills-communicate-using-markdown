@@ -10,3 +10,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var variable = "hola mundo!";
 ```
+- [ ] Ver en vivo al Cuarteto de Nos
+- [X] Ver en vivo a Alan Sutton
+- [X] Ver en vivo a Fonso
